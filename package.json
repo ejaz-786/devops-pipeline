@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "test.js",
-    "run": "index.js"
+    "test": "node test.js",
+    "run": "node index.js"
   }
 }
